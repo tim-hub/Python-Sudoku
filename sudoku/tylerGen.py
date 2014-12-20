@@ -4,7 +4,9 @@
 import random
 
 sudoku = [] # Initializing game board
-sudokuLength = 9*9 # Game board size
+sudokuLength = 81 # Game board size 9*9 Edited by Tim W #2014/12/19
+
+
 
 def main():
 	for i in range(sudokuLength):
@@ -83,6 +85,14 @@ def printSudoku():
 		rowCtr += 1
 	for row in temp:
 		print row
+		
+def getTable():# edited by Tim W
+	for i in range(sudokuLength):
+		sudoku.append(None)
+	populateCell(0)	
+	return sudoku
+	
+
 	
 if __name__ == "__main__":
 	main()

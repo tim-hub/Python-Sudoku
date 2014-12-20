@@ -1,6 +1,11 @@
+#Python Sudoku
+
+
+#Generator `Cloned From Tyler`
+
 Generates a valid sudoku board:
 
-Execute sudoku-generator.py and it will be printed to stdout.
+Execute tylerGen.py and it will be printed to stdout.
 
 Example board generation:
 
@@ -15,4 +20,3 @@ $ ./sudoku-generator.py<br>
 [9, 3, 2, 6, 5, 4, 7, 8, 1]<br>
 [7, 5, 8, 1, 3, 2, 6, 9, 4]
 
-===========================
