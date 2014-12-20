@@ -1,7 +1,8 @@
 #Python Sudoku
 
 
-#Generator `Cloned From Tyler`
+#Generator 
+`Cloned From Tyler`
 
 Generates a valid sudoku board:
 
