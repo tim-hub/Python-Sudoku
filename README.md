@@ -10,7 +10,7 @@ Execute tylerGen.py and it will be printed to stdout.
 
 Example board generation:
 
-  $ ./sudoku-generator.py<br>
+`$ ./sudoku-generator.py`
 
 [6, 8, 4, 5, 1, 7, 9, 3, 2]<br>
 [3, 7, 5, 2, 9, 8, 1, 4, 6]<br>
