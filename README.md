@@ -1,8 +1,8 @@
-#Python Sudoku
+## Python Sudoku
 
 
-#Generator 
-`Cloned From Tyler`
+## Generator 
+
 
 Generates a valid sudoku board:
 
@@ -21,3 +21,5 @@ $ ./sudoku-generator.py<br>
 [9, 3, 2, 6, 5, 4, 7, 8, 1]<br>
 [7, 5, 8, 1, 3, 2, 6, 9, 4]
 
+## Credits
+- https://github.com/Tgeo
